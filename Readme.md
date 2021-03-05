@@ -28,3 +28,12 @@ gp-resource-pg.html
 - simple-form-validation-php.html
 - - simple-form-validation-php.php
 ```
+### Viewport
+The browser's viewport is the area of the window in which web content can be seen. 
+This is often not the same size as the rendered page, in which case the browser provides scrollbars for the user to scroll around and access all the content.
+When viewport is not set to "device-width",the best is to adopt a responsive design for your site's pages, and set the viewport to match the device's width and scale accordingly.
+
+### CSS
+CSS is the language we use to style a Web page which stands for Cascading Style Sheets.
+It describes how HTML elements are to be displayed on screen, paper, or in other media. It can control the layout of multiple web pages all at once
+External stylesheets are stored in CSS files
