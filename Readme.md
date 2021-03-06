@@ -20,6 +20,7 @@ gp-resource-pg.html
 ### [PHP_resource](https://www.w3schools.com/php/default.asp)
 ### [JS_resource](https://www.w3schools.com/js/default.asp)
 ### [HTML_resource](https://www.w3schools.com/html/default.asp)
+#### [Responsive webpage with HTML & CSS](https://sahelibasu23.github.io/responsive-webpage-creation-from-scratch/Sample%20creation/responsive%20webpage//css-linked-page.html)
 
 ```
 #### PHP segment
